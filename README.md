@@ -11,7 +11,7 @@
 <h2>Problema del negocio</h2>
 
 <table><tr><td> 
-Una entidad gubernamental responsable de la gestión de la salud en Argentina y en Colombia enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia.
+Una entidad gubernamental responsable de la gestión de la salud enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia.
 Como científicos de datos, nuestra tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes cuestiones: <br>
 <br>
 1. La propagación del Covid-19 en Estados Unidos en comparación con el resto del mundo <br>
