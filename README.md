@@ -8,16 +8,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=cantoralcesar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cecmacuario@hotmail.com) 
-
-
 <h2>Problema del negocio</h2>
 
 <table><tr><td> 
@@ -84,3 +74,12 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
 <div style="text-align:center;">
     <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht6.1.PNG" alt="Descripción de la imagen" style="width:900px;"/>
 </div>
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=cantoralcesar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cecmacuario@hotmail.com) 
