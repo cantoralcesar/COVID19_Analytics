@@ -25,6 +25,8 @@ Como científicos de datos, nuestra tarea es analizar los datos relacionados con
 
 <h2>Configuración del ambiente</h2>
 
+Este repositorio contiene la configuración del ambiente para el proyecto COVID-19. La configuración del ambiente es crucial para garantizar la reproducibilidad y la consistencia del entorno de desarrollo y ejecución del proyecto.
+
 <h2>Obtención de los datos</h2>
 
 https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT_REV1.xlsx
@@ -76,9 +78,19 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
     <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht6.1.PNG" alt="Descripción de la imagen" style="width:900px;"/>
 </div>
 <h3>Contribución a la Toma de Decisiones</h3>
+
 Este proyecto busca contribuir significativamente a la toma de decisiones informadas de las entidades gubernamentales y proporcionar información valiosa al público en general. Las visualizaciones impactantes y análisis detallados permiten una comprensión más profunda de la pandemia y sus implicaciones.
 
 ¡Explora nuestras visualizaciones y descubre insights clave sobre el impacto del COVID-19 en Estados Unidos y a nivel mundial!
+
+<h3>Contribuciones Generales</h3>
+"Agradecemos especialmente al Profesor Alejo por su invaluable orientación y enseñanzas, las cuales han sido fundamentales para el desarrollo de las habilidades necesarias para extraer insights significativos de los datos. Su dedicación a la enseñanza ha dejado una marca duradera en nuestra capacidad para abordar y analizar problemas complejos" <br><br>
+
+Siéntete libre de contribuir y mejorar la configuración del ambiente. Agradecemos cualquier sugerencia o corrección que puedas aportar.
+
+<p align="center" style="color:red;">¡Gracias por utilizar y contribuir en el Proyecto!</p>
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
