@@ -1,6 +1,6 @@
 # COVID19_Analytics
   
-> Este proyecto muestra insights sobre lo que dejó la pandemia analizando datos oficiales. <br>
+> Este proyecto muestra insights del pais de Estado Unidos de America de sobre lo que dejó la pandemia analizando datos oficiales. <br>
 
 
 # 💻 Tech Stack:
@@ -14,9 +14,9 @@
 Una entidad gubernamental responsable de la gestión de la salud en Argentina y en Colombia enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia.
 Como científicos de datos, nuestra tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes cuestiones: <br>
 <br>
-1. La propagación del Covid-19 en Argentina y en Colombia en comparación con el resto del mundo <br>
-2. Cómo fué el avance de los reporte de nuevos casos diarios lo largo de estos últimos 4 años en Argentina y Colombia. <br>
-3. La evolución del índice de letatidad del Covid-19 en Colombia y en Argentina comparado con los paises con mayores índices de letalidad históricos. <br>
+1. La propagación del Covid-19 en Estados Unidos en comparación con el resto del mundo <br>
+2. Cómo fué el avance de los reporte de nuevos casos diarios lo largo de estos últimos años en Estados Unidos. <br>
+3. La evolución del índice de letatidad del Covid-19 en Estados Unidos comparado con los paises con mayores índices de letalidad históricos. <br>
 4. Las características mas relevantes a nivel global en el impacto del índice de letalidad desde una perspectiva demográfica. <br>
 5. Análisis de la Velocidad de Propagación del COVID-19 en Estados Unidos: Comparativa Mensual en Países Destacados. <br>
 6. comparativa de los casos y las muertes acumulativas en los 20 países principales.
