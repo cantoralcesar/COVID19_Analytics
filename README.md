@@ -1,6 +1,7 @@
-# COVID19_Analytics
+# Análisis de Datos COVID-19 en Estados Unidos
   
-> Este proyecto muestra insights del pais de Estado Unidos de America de sobre lo que dejó la pandemia analizando datos oficiales. <br>
+> 
+Este proyecto se centra en el análisis detallado de la propagación del COVID-19 en Estados Unidos, realizado por un equipo de científicos de datos comprometidos con proporcionar insights valiosos a las entidades gubernamentales y al público en general. Nuestro enfoque aborda diversas preguntas críticas relacionadas con la evolución de la pandemia, utilizando datos reales y visualizaciones impactantes. <br>
 
 
 # 💻 Tech Stack:
@@ -74,7 +75,10 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
 <div style="text-align:center;">
     <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht6.1.PNG" alt="Descripción de la imagen" style="width:900px;"/>
 </div>
+<h3>Contribución a la Toma de Decisiones</h3>
+Este proyecto busca contribuir significativamente a la toma de decisiones informadas de las entidades gubernamentales y proporcionar información valiosa al público en general. Las visualizaciones impactantes y análisis detallados permiten una comprensión más profunda de la pandemia y sus implicaciones.
 
+¡Explora nuestras visualizaciones y descubre insights clave sobre el impacto del COVID-19 en Estados Unidos y a nivel mundial!
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
