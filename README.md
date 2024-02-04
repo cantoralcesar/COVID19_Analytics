@@ -47,8 +47,8 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
 <h3>Insight 1: ¿Cómo ha evolucionado el Covid-19 en Estados Unidos en comparación con el impacto observado a nivel global? </h3><br><br>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.1.PNG" alt="Descripción de la imagen" style="width:450px;"/>
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.2.PNG" alt="Descripción de la imagen" style="width:450px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.1.PNG" alt="Descripción de la imagen" style="width:430px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.2.PNG" alt="Descripción de la imagen" style="width:430px;"/>
 </div>
 <div style="text-align:center;">
     <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/progresion_casos_acumulativos.png" alt="Descripción de la imagen" style="width:950px;"/>
@@ -70,8 +70,8 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
 <h3>Insight 4: Desde una perspectiva demográfica ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?</h3><br><br>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht4.1.PNG" alt="Descripción de la imagen" style="width:450px;"/>
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Importancia_de_las_Características.png" alt="Descripción de la imagen" style="width:450px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht4.1.PNG" alt="Descripción de la imagen" style="width:430px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Importancia_de_las_Características.png" alt="Descripción de la imagen" style="width:430px;"/>
 </div>
 
 <h3>Insight 5: Análisis de la Velocidad de Propagación del COVID-19 en Estados Unidos: Comparativa Mensual en Países Destacados</h3><br><br>
