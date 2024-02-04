@@ -40,25 +40,25 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
 
 <h2>EDA: Análisis exploratorio de los datos</h2><br><br>
 
-<img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/EDA.PNG" alt="Descripción de la imagen" style="width:950px;"/>
+<img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/EDA.PNG" alt="Descripción de la imagen" style="width:900px;"/>
 <br><br>
 
 <h2>Insights y conclusiones</h2>
 <h3>Insight 1: ¿Cómo ha evolucionado el Covid-19 en Estados Unidos en comparación con el impacto observado a nivel global? </h3><br><br>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.1.PNG" alt="Descripción de la imagen" style="width:430px;"/>
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.2.PNG" alt="Descripción de la imagen" style="width:430px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.1.PNG" alt="Descripción de la imagen" style="width:400px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht1.2.PNG" alt="Descripción de la imagen" style="width:400px;"/>
 </div>
 <div style="text-align:center;">
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/progresion_casos_acumulativos.png" alt="Descripción de la imagen" style="width:950px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/progresion_casos_acumulativos.png" alt="Descripción de la imagen" style="width:900px;"/>
 </div>
 
 <br><br>
 <h3>Insight 2: ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en Estados Unidos a lo largo del tiempo?</h3><br><br>
 
 <div style="text-align:center;">
-     <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht2.1.PNG" alt="Descripción de la imagen" style="width:950px;"/>
+     <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht2.1.PNG" alt="Descripción de la imagen" style="width:900px;"/>
 </div>
 
 <h3>Insight 3: ¿Cuál es la evolución del índice de letalidad del Covid-19 en Estados Unidos comparado con los paises con los índices históricos más elevados?</h3><br><br>
@@ -70,14 +70,17 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
 <h3>Insight 4: Desde una perspectiva demográfica ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?</h3><br><br>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht4.1.PNG" alt="Descripción de la imagen" style="width:430px;"/>
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Importancia_de_las_Características.png" alt="Descripción de la imagen" style="width:430px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht4.1.PNG" alt="Descripción de la imagen" style="width:400px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Importancia_de_las_Características.png" alt="Descripción de la imagen" style="width:400px;"/>
 </div>
 
 <h3>Insight 5: Análisis de la Velocidad de Propagación del COVID-19 en Estados Unidos: Comparativa Mensual en Países Destacados</h3><br><br>
 
 <div style="text-align:center;">
-    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht5.1.PNG" alt="Descripción de la imagen" style="width:950px;"/>
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht5.1.PNG" alt="Descripción de la imagen" style="width:900px;"/>
 </div>
 
 <h3>Insight 6: comparativa de los casos y las muertes acumulativas en los 20 países principales.</h3><br>
+<div style="text-align:center;">
+    <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht6.1.PNG" alt="Descripción de la imagen" style="width:900px;"/>
+</div>
