@@ -16,7 +16,7 @@ Una entidad gubernamental responsable de la gestión de la salud enfrenta el des
 Como científicos de datos, nuestra tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes cuestiones: <br>
 <br>
 1. La propagación del Covid-19 en Estados Unidos en comparación con el resto del mundo <br>
-2. Cómo fué el avance de los reporte de nuevos casos diarios lo largo de estos últimos años en Estados Unidos. <br>
+2. Evolución acumulativa de casos reportados de Covid-19 en el país de Estados Unidos a lo largo del tiempo <br>
 3. La evolución del índice de letatidad del Covid-19 en Estados Unidos comparado con los paises con mayores índices de letalidad históricos. <br>
 4. Las características mas relevantes a nivel global en el impacto del índice de letalidad desde una perspectiva demográfica. <br>
 5. Análisis de la Velocidad de Propagación del COVID-19 en Estados Unidos: Comparativa Mensual en Países Destacados. <br>
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/ElProfeAlejo/Bootcamp_Databases/main/WPP2022_G
 </div>
 
 <br><br>
-<h3>Insight 2: ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en Estados Unidos a lo largo del tiempo?</h3><br><br>
+<h3>Insight 2: ¿Cuál ha sido la evolución acumulativa de casos reportados de Covid-19 en Estados Unidos a lo largo del tiempo?</h3><br><br>
 
 <div style="text-align:center;">
      <img src="https://github.com/cantoralcesar/COVID19_Analytics/blob/main/IMAGENES/Insigtht2.1.PNG" alt="Descripción de la imagen" style="width:900px;"/>
